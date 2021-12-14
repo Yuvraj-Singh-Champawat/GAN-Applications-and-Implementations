@@ -1,2 +1,2 @@
 # GAN-Applications-and-Implementations
-This Repo contains implementations and applications of DCGAN, LSGAN and CycleGAN in Keras.
+This Repo contains applications and implementations of DCGAN, LSGAN and CycleGAN in Keras.
